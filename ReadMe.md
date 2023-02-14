@@ -3,7 +3,7 @@
 This is the Curriculum for "Learn JAVA Data Structures and Algorithms in 4.5 Months"
 
 
-# Month 1   
+# Month 1    
 
 ## Week 1,2 Intro to programming & JAVA, Flow of programs
 Complete the lectures and assignments from 01 - 04 
